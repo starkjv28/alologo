@@ -1,0 +1,125 @@
+
+Babi final pink 1.png
+size: 1559,1178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 41
+  rotate: true
+  xy: 804, 8
+  size: 105, 450
+  orig: 135, 510
+  offset: 29, 33
+  index: -1
+Layer 42
+  rotate: false
+  xy: 1406, 53
+  size: 129, 148
+  orig: 136, 148
+  offset: 0, 0
+  index: -1
+Layer 43
+  rotate: false
+  xy: 1114, 654
+  size: 129, 147
+  orig: 136, 148
+  offset: 7, 0
+  index: -1
+ball
+  rotate: true
+  xy: 2, 2
+  size: 799, 800
+  orig: 799, 800
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 803
+  size: 373, 1555
+  orig: 373, 1555
+  offset: 0, 0
+  index: -1
+down l-arm
+  rotate: false
+  xy: 1298, 373
+  size: 131, 428
+  orig: 131, 428
+  offset: 0, 0
+  index: -1
+down r-arm
+  rotate: false
+  xy: 1314, 9
+  size: 90, 362
+  orig: 90, 362
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1406, 203
+  size: 133, 168
+  orig: 133, 168
+  offset: 0, 0
+  index: -1
+l-eye
+  rotate: false
+  xy: 1256, 88
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+l-leg
+  rotate: false
+  xy: 804, 298
+  size: 201, 503
+  orig: 201, 987
+  offset: 0, 484
+  index: -1
+r-eye
+  rotate: false
+  xy: 1285, 88
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+r-iris
+  rotate: false
+  xy: 1256, 71
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+r-iris copy
+  rotate: false
+  xy: 1276, 72
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+r-leg down
+  rotate: false
+  xy: 1007, 365
+  size: 105, 436
+  orig: 111, 459
+  offset: 6, 23
+  index: -1
+r-leg top
+  rotate: true
+  xy: 804, 115
+  size: 181, 492
+  orig: 181, 980
+  offset: 0, 488
+  index: -1
+up l-arm
+  rotate: false
+  xy: 1431, 475
+  size: 116, 326
+  orig: 116, 326
+  offset: 0, 0
+  index: -1
+up r-arm
+  rotate: false
+  xy: 1114, 335
+  size: 82, 317
+  orig: 82, 317
+  offset: 0, 0
+  index: -1
